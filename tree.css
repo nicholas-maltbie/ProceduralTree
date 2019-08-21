@@ -1,0 +1,15 @@
+.selection {
+    display: flex;
+    justify-content: space-between;
+    margin: .5rem;
+    max-width: 350px;
+}
+
+.tree-canvas {
+    border: 1px black solid;
+}
+
+.error-msg {
+    color: #FF0000
+}
+
